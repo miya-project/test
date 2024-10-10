@@ -10,13 +10,13 @@ const works = [
         imgSrc: '/images/project-1.jpg',
         title: 'Movie website',
         tags: ['Coding'],
-        projectLink: '#'
+        projectLink: 'https://github.com/miya-project/movie-website'
         },
         {
         imgSrc: '/images/project-2.jpg',
         title: 'Company website',
         tags: ['Coding'],
-        projectLink: '#'
+        projectLink: 'https://github.com/miya-project/company-website'
         },
         {
         imgSrc: '/images/project-3.jpg',
@@ -28,13 +28,13 @@ const works = [
         imgSrc: '/images/project-4.jpg',
         title: 'Cafe website',
         tags: ['Coding'],
-        projectLink: '#'
+        projectLink: 'https://github.com/miya-project/cafe-website'
         },
         {
         imgSrc: '/images/project-5.jpg',
         title: 'Career website',
         tags: ['Coding'],
-        projectLink: '#'
+        projectLink: 'https://github.com/miya-project/career-website'
         },
         {
         imgSrc: '/images/project-6.jpg',
