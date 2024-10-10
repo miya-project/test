@@ -15,7 +15,7 @@ gsap.registerPlugin(useGSAP,ScrollTrigger)
  *   components   
 */
 
-import Header from './components/header';
+import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
 import Skill from './components/Skill';
